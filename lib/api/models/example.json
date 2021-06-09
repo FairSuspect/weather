@@ -1,0 +1,46 @@
+{
+    "message": "accurate",
+    "cod": "200",
+    "count": 1,
+    "list": [
+        {
+            "id": 528454,
+            "name": "Matveyevskoye",
+            "coord": {
+                "lat": 55.7069,
+                "lon": 37.4731
+            },
+            "main": {
+                "temp": 284.19,
+                "feels_like": 282.66,
+                "temp_min": 284.15,
+                "temp_max": 284.26,
+                "pressure": 1019,
+                "humidity": 50
+            },
+            "dt": 1622451927,
+            "wind": {
+                "speed": 4,
+                "deg": 50
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": {
+                "1h": 0.21
+            },
+            "snow": null,
+            "clouds": {
+                "all": 0
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "небольшой дождь",
+                    "icon": "10d"
+                }
+            ]
+        }
+    ]
+}
